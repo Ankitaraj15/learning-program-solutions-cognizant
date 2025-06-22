@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\bin\Debug\net9.0\ECommerceSearch.exe
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\bin\Debug\net9.0\ECommerceSearch.deps.json
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\bin\Debug\net9.0\ECommerceSearch.runtimeconfig.json
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\bin\Debug\net9.0\ECommerceSearch.dll
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\bin\Debug\net9.0\ECommerceSearch.pdb
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\ECommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\ECommerceSearch.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\ECommerceSearch.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\ECommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\ECommerceSearch.sourcelink.json
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\ECommerceSearch.dll
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\refint\ECommerceSearch.dll
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\ECommerceSearch.pdb
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\ECommerceSearch.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Week_1_cognizant\ECommerceSearch\obj\Debug\net9.0\ref\ECommerceSearch.dll
