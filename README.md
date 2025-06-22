@@ -9,8 +9,11 @@ This repository contains solutions to various hands-on exercises and assignments
 ### WEEK 1 Solutions (Design Patterns & DSA)/
 
 ├── SingletonPattern_EX1/ # Logger class using Singleton Pattern
+
 ├── FactoryPattern_EX2/ # Document creation using Factory Method Pattern
+
 ├── ECommerceSearch_EX3/ # Linear & Binary Search on product data
+
 ├── FinancialForecast_EX7/ # Recursive financial prediction
 
 
