@@ -35,7 +35,8 @@ This repository contains solutions to various hands-on exercises and assignments
 | Project               | Screenshot         |
 |-----------------------|--------------------|
 | Singleton Pattern     | Forecast Output     |
-| Factory / Search etc. | ![output_singleton](https://github.com/user-attachments/assets/270c3bf0-ce00-47c6-952b-6c9deb74a682)
+| Factory / Search etc. | ![output_factory_method](https://github.com/user-attachments/assets/714e7ec8-cbcf-4382-a530-100fde85fe24)
+
  |
 
 ---
