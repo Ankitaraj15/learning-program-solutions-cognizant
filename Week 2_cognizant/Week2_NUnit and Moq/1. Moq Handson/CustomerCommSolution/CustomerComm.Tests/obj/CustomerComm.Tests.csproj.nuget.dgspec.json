@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+        "projectName": "CustomerComm.Tests",
+        "projectPath": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+        "packagesPath": "C:\\Users\\freya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerComm.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\freya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerCommLib\\CustomerCommLib.csproj": {
+                "projectPath": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerCommLib\\CustomerCommLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerCommLib\\CustomerCommLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectName": "CustomerCommLib",
+        "projectPath": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerCommLib\\CustomerCommLib.csproj",
+        "packagesPath": "C:\\Users\\freya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerCommLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\freya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

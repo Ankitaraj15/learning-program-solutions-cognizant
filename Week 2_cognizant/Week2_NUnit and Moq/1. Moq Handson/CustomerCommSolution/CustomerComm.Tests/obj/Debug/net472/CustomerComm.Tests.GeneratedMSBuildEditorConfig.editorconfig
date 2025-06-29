@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = CustomerComm.Tests
+build_property.ProjectDir = C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerComm.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

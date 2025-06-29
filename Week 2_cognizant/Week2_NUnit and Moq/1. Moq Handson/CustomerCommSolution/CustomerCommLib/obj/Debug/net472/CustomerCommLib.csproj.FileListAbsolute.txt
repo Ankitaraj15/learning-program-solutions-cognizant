@@ -1,0 +1,9 @@
+C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerCommLib\bin\Debug\net472\CustomerCommLib.dll
+C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerCommLib\bin\Debug\net472\CustomerCommLib.pdb
+C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerCommLib\obj\Debug\net472\CustomerCommLib.csproj.AssemblyReference.cache
+C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerCommLib\obj\Debug\net472\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerCommLib\obj\Debug\net472\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerCommLib\obj\Debug\net472\CustomerCommLib.AssemblyInfo.cs
+C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerCommLib\obj\Debug\net472\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerCommLib\obj\Debug\net472\CustomerCommLib.dll
+C:\Users\freya\OneDrive\Desktop\COGNIZANT\Week 2\Week2_NUnit and Moq\1. Moq Handson\CustomerCommSolution\CustomerCommLib\obj\Debug\net472\CustomerCommLib.pdb

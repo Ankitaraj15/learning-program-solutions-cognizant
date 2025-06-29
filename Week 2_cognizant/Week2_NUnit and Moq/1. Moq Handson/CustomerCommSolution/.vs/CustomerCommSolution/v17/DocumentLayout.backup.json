@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B85DF0FC-05E5-416E-972D-F31B962BDD1D}|CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\week 2\\week2_nunit and moq\\1. moq handson\\customercommsolution\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85DF0FC-05E5-416E-972D-F31B962BDD1D}|CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A591054-5B75-404E-A7AB-B4E97CDB0DF0}|CustomerCommLib\\CustomerCommLib.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\week 2\\week2_nunit and moq\\1. moq handson\\customercommsolution\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A591054-5B75-404E-A7AB-B4E97CDB0DF0}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\CustomerComm.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerCommLib\\CustomerComm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:01:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\Week 2\\Week2_NUnit and Moq\\1. Moq Handson\\CustomerCommSolution\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:00:45.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
