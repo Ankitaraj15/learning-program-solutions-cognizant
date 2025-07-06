@@ -4,41 +4,6 @@ This repository contains solutions to various hands-on exercises and assignments
 
 ---
 
-## 📁 Folder Structure
-
-### WEEK 1 Solutions (Design Patterns & DSA)/
-
-├── SingletonPattern_EX1/ # Logger class using Singleton Pattern
-
-├── FactoryPattern_EX2/ # Document creation using Factory Method Pattern
-
-├── ECommerceSearch_EX3/ # Linear & Binary Search on product data
-
-├── FinancialForecast_EX7/ # Recursive financial prediction
-
-
----
-
-## 🧠 Topics Covered
-
-| Exercise | Topic                   | Description                                      |
-|----------|-------------------------|--------------------------------------------------|
-| 1        | Singleton Pattern        | Ensures a class has only one instance (Logger)   |
-| 2        | Factory Method Pattern   | Creates different types of documents using factories |
-| 3        | Searching Algorithms     | Implements Linear and Binary Search for product data |
-| 7        | Recursion & Forecasting  | Forecasts financial growth using recursion       |
-
----
-
-## 📷 Example Output Screenshots
-
-| Project               | Screenshot         |
-|-----------------------|--------------------|
-| Singleton Pattern     | Forecast Output     |
-| Factory / Search etc. | ![output_factory_method](https://github.com/user-attachments/assets/714e7ec8-cbcf-4382-a530-100fde85fe24) |
-
----
-
 ## 🛠 Technologies Used
 
 - **Language:** C# (.NET 6/7/8)  
